@@ -1,0 +1,24 @@
+﻿  main.c
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(40,31): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(40,31): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(67,30): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(68,34): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(135,30): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(136,34): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(185,33): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(185,33): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(207,30): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(208,34): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(225,36): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(225,36): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(247,30): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(248,34): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(56,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(57,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(124,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(125,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(196,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(197,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(236,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\nica9\main.c(237,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+  nica9.vcxproj -> C:\Users\Liam\Documents\GitHub\ica-9-LiamHailey\nica9\Debug\nica9.exe
